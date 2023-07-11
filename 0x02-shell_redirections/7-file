@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Best School" >  "\\*\\'\"Best School"\'\\*$\?\*\*\*\*\*:)"
+touch -- "$(cat <<'END_NAME'\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)END_NAME)"
